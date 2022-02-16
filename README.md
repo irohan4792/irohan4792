@@ -1,12 +1,12 @@
 <body>
-<h1 align="center">~ 💖𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐩𝐫𝐨𝐟𝐢𝐥𝐞💖 ~</h1>
+<h1 align="center"><img src='https://media2.giphy.com/media/WqR7WfQVrpXNcmrm81/giphy.gif?cid=ecf05e470t2jl4e27gr7sm8gxxwz8qps2p2jd6bk69zf1f0y&rid=giphy.gif&ct=g' style="height:70px;width:70px">𝐍𝐚𝐦𝐚𝐬𝐭𝐞<img src='https://media2.giphy.com/media/WqR7WfQVrpXNcmrm81/giphy.gif?cid=ecf05e470t2jl4e27gr7sm8gxxwz8qps2p2jd6bk69zf1f0y&rid=giphy.gif&ct=g' style="height:70px;width:70px">   </h1>
 <br>
 <div align="center">
 <img src="https://giffiles.alphacoders.com/132/13267.gif" style="height:270px;width:500px">
 </div>
 <br>
 <div>
-<h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
+<h2 align="center"><img src='https://media4.giphy.com/media/E5Vqm4UGhqt6Acc0GB/giphy.gif?cid=ecf05e47srsf5t3plbsa92nrovdo4kgra54fwwfy1qfv9my8&rid=giphy.gif&ct=s' style="height:60px;width:60px"> 𝐀𝐛𝐨𝐮𝐭 𝐦𝐞 </h2>
 <img src="https://media2.giphy.com/media/dieGgjBPDS9jy/giphy.gif?cid=ecf05e47y0hji82djpno2bb7e2284ntpv3yka0el49zo42ik&rid=giphy.gif&ct=g" align="right" style="height:180px;width:504">
 <li>
 <b>Name:</b> Rohan Sharma</li>
@@ -22,25 +22,49 @@
 <li>
 <b>Studying @:</b> VIT BHOPAL UNIVERSITY
 </li>
+<li>
+<b>Favorite Meme Dialogue:</b> Bruhhhh.....
+</li>  
+<li>
+<b>Bla Bla Bla Bla Bla.....
+</li>
 <br>
 
 </div>
 <div>
-<h2 align="left">            ~ 📇𝐒𝐤𝐢𝐥𝐥𝐬📇 ~</h2> 
+<h2 align="center">   <img src='https://media0.giphy.com/media/Kfr20XdmssiUA0L115/giphy.gif?cid=ecf05e47wjkiui22px0mxddk721f6zuzbtyshsebu2dn5fob&rid=giphy.gif&ct=s' style="height:70px;width:70px">  𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐚𝐧𝐝 𝐭𝐨𝐨𝐥𝐬 </h2> 
 <p>
-<img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
+<img src="https://giffiles.alphacoders.com/210/210437.gif" align="left" style="height:226px;width:420px">
 </div>
 <div>
   
-<p align="center"><img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
- <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <br><br>
-Im also very good at writing articles or small essays sort of thing. Literally took me Hours to write this while hearing music. Im a pianist and i also upload covers and tutorials on youtube. Links will be there down below.
+<br>
+<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
+&nbsp;  
+<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
+<img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />
+&nbsp;
+  <br><br>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RohanSharma4792&show_icons=true&theme=gotham" alt="rohansharma" />
+<br>Im also very good at writing articles or small essays sort of thing. Literally took me Hours to write this while hearing music. Im a pianist and i also upload covers and tutorials on youtube. Links will be there down below.
   And haa congrats!! You discovered me😃!!!!
 </p>
 <br>
-<h2>           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
-<img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="393px" height="208px">
+
+<h2 align="center"><img src='https://media2.giphy.com/media/hVn7oX3edzzNsJPOFk/giphy.gif?cid=ecf05e47z7p81macy6ruf118zpdl5pzg8f1o6uerygobum9w&rid=giphy.gif&ct=s' style="height:70px;width:70px">𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐦𝐞</h2>
+<img src="https://media4.giphy.com/media/x7F4Fg2O4KZwY/giphy.gif?cid=ecf05e47sk4rso1kzm3fdbv80y929s6ed2jts6m8fihh5oqw&rid=giphy.gif&ct=g" align="right" width="393px" height="208px">
 <br>
+💼 any freelance work? do reach, [email](mailto:rohansharma4792@gmail.com) :)
 <p align="center">Hewe awe some of my <br>
 most used s-s-sociaw things >~< xoxox</p>
   <a href="https://www.youtube.com/c/PianoWaala/videos"><img src="https://img.icons8.com/color/96/000000/youtube.png" alt="youtube"/></a>
@@ -52,7 +76,7 @@ most used s-s-sociaw things >~< xoxox</p>
 </div>
 <br>
 <div>
-<h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
+<h2 align="center"><img src='https://media1.giphy.com/media/Kbjla2Aw5799DaW2SM/giphy.gif?cid=ecf05e47r371cgpcwgjhd2xkwzyrspkaasauyzg37l7ql569&rid=giphy.gif&ct=s' style="height:70px;width:70px">𝐓𝐡𝐚𝐧𝐤𝐬 𝐟𝐨𝐫 𝐫𝐞𝐚𝐝𝐢𝐧𝐠</h2>
 <div align="center">
 <img src="https://www.gifcen.com/wp-content/uploads/2021/02/demon-slayer-gif-1.gif" style="height:283px;width:504">
 </div>
