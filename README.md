@@ -73,6 +73,7 @@ most used s-s-sociaw things >~< xoxox</p>
   <a href="https://www.linkedin.com/in/rohan-sharma-1749ba21a/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
   <a href="https://twitter.com/upper_octave"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
   <a href="https://discordapp.com/users/5525/"><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord"/></a>
+  
 </div>
 <br>
 <div>
