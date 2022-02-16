@@ -80,7 +80,8 @@ most used s-s-sociaw things >~< xoxox</p>
 <div align="center">
 <img src="https://www.gifcen.com/wp-content/uploads/2021/02/demon-slayer-gif-1.gif" style="height:283px;width:504">
 </div>
+</div>
+</div>
+<p align="center"> <img src="https://komarev.com/ghpvc/?RohanSharma4792=GITHUB-USERNAME&label=Profile%20views&color=ce9927&style=flat" alt="rohansharma" /> </p>
 <hr>
-</div>
-</div>
 </body>
