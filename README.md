@@ -26,7 +26,7 @@
 <b>Favorite Meme Dialogue:</b> Bruhhhh.....
 </li>  
 <li>
-<b>Let's skip to the good part
+  <b>𝓵𝓮𝓽'𝓼 𝓼𝓴𝓲𝓹 𝓽𝓸 𝓽𝓱𝓮 𝓰𝓸𝓸𝓭 𝓹𝓪𝓻𝓽
 </li>
 <br>
 
