@@ -2,7 +2,7 @@
 <h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
 <br>
 <div align="center">
-<img src="https://giffiles.alphacoders.com/132/13267.gif" tyle="height:500px;width:270">
+<img src="https://giffiles.alphacoders.com/132/13267.gif" style="height:500px;width:270">
 </div>
 <br>
 <div>
@@ -52,7 +52,7 @@ most used s-s-sociaw things >~< xoxox</p>
 <div>
 <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
 <div align="center">
-<img src="https://thumbs.gfycat.com/ElderlyNiceIsopod-size_restricted.gif">
+<img src="https://www.gifcen.com/wp-content/uploads/2021/02/demon-slayer-gif-1.gif" style="height:504px;width:283">
 </div>
 <hr>
 </div>
