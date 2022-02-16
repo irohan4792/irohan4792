@@ -1,18 +1,15 @@
 <body>
-<h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
+<h1 align="center">~ 💖𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐩𝐫𝐨𝐟𝐢𝐥𝐞💖 ~</h1>
 <br>
 <div align="center">
-<img src="https://giffiles.alphacoders.com/132/13267.gif" style="height:500px;width:270">
+<img src="https://giffiles.alphacoders.com/132/13267.gif" style="height:270px;width:500px">
 </div>
 <br>
 <div>
 <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
-<img src="https://media2.giphy.com/media/dieGgjBPDS9jy/giphy.gif?cid=ecf05e47y0hji82djpno2bb7e2284ntpv3yka0el49zo42ik&rid=giphy.gif&ct=g" align="right" style="height:180px;width:219">
+<img src="https://media2.giphy.com/media/dieGgjBPDS9jy/giphy.gif?cid=ecf05e47y0hji82djpno2bb7e2284ntpv3yka0el49zo42ik&rid=giphy.gif&ct=g" align="right" style="height:180px;width:504">
 <li>
 <b>Name:</b> Rohan Sharma</li>
-<li>
-<b>Fursona:</b> Female Snow Fox > ~ <
-</li>
 <li>
 <b>Loves:</b> you! and donuts and games maybe -///-
 </li>
@@ -30,7 +27,7 @@
                   verwy cuwute of chu</b></p>
 </div>
 <div>
-<h2 align="left">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2> 
+<h2 align="left">            ~ 📇𝐒𝐤𝐢𝐥𝐥𝐬📇 ~</h2> 
 <p>
 <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
 </div>
@@ -41,7 +38,7 @@ Im also very good at writing Guides like my Yuzu Emulator Guide or writing this 
 </p>
 <br>
 <h2>           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
-<img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
+<img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="393px" height="208px">
 <br>
 <p align="center">Hewe awe some of my <br>
 most used s-s-sociaw things >~< xoxox</p>
@@ -52,7 +49,7 @@ most used s-s-sociaw things >~< xoxox</p>
 <div>
 <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
 <div align="center">
-<img src="https://www.gifcen.com/wp-content/uploads/2021/02/demon-slayer-gif-1.gif" style="height:504px;width:283">
+<img src="https://www.gifcen.com/wp-content/uploads/2021/02/demon-slayer-gif-1.gif" style="height:283px;width:504">
 </div>
 <hr>
 </div>
