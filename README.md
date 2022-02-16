@@ -64,7 +64,7 @@
 <h2 align="center"><img src='https://media2.giphy.com/media/hVn7oX3edzzNsJPOFk/giphy.gif?cid=ecf05e47z7p81macy6ruf118zpdl5pzg8f1o6uerygobum9w&rid=giphy.gif&ct=s' style="height:70px;width:70px">𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐦𝐞</h2>
 <img src="https://media4.giphy.com/media/x7F4Fg2O4KZwY/giphy.gif?cid=ecf05e47sk4rso1kzm3fdbv80y929s6ed2jts6m8fihh5oqw&rid=giphy.gif&ct=g" align="right" width="393px" height="208px">
 <br>
-💼 any freelance work? do reach, [email](mailto:rohansharma4792@gmail.com) :)
+
 <p align="center">Hewe awe some of my <br>
 most used s-s-sociaw things >~< xoxox</p>
   <a href="https://www.youtube.com/c/PianoWaala/videos"><img src="https://img.icons8.com/color/96/000000/youtube.png" alt="youtube"/></a>
