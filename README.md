@@ -17,7 +17,7 @@
 <b>Gender:</b> he/his/Male
 </li>
 <li>
-<b>Hobbys:</b> Tech Stuff, Web Development, App Development, Video Editing, Playing ⚽, 🏸, 🏓.
+<b>Hobbies:</b> Tech Stuff, Web Development, App Development, Video Editing, Playing ⚽, 🏸, 🏓.
 </li>
 <li>
 <b>Studying @:</b> VIT BHOPAL UNIVERSITY
