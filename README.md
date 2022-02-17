@@ -56,6 +56,8 @@
 &nbsp;
   <br><br>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RohanSharma4792&show_icons=true&theme=gotham" alt="rohansharma" />
+
+
 <br>Im also very good at writing articles or small essays sort of thing. Literally took me Hours to write this while hearing music. Im a pianist and i also upload covers and tutorials on youtube. Links will be there down below.
   And haa congrats!! You discovered me😃!!!!
 </p>
