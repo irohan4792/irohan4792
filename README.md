@@ -8,12 +8,12 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Front+end+Web+Developer;TECH%20|%20SPORTS%20|%20Music%20Enthusiast;Video%20Editor;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">I am a Student at VIT Bhopal University. pursuing B.TECH. in CSE. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity. Bonus: I'm a 🎹 too. </h4>
+<h4 align="center">I am a Student🧑 at VIT Bhopal University. pursuing B.TECH. in CSE. I 💝 to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I 💝 meeting new people, exchanging ideas and spreading knowledge and positivity. Bonus: I'm a 🎹ist too. </h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=RohanSharma47928&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=RohanSharma47928&label=Profile%20views&color=0e75b6&style=plastic" alt="rohansharma4792" /> </p>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RohanSharma4792&theme=algolia" alt="candida18"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RohanSharma4792&theme=algolia" alt="rohansharma4792"  /></p>
 
 
 ## 🛠️ My Skills
