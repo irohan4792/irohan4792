@@ -1,92 +1,172 @@
-<body>
-  
-  <img alt = "Visitors"  src = "https://komarev.com/ghpvc/?username=RohanSharma4792"/>
-<h1 align="center"><img src='https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020' style="height:70px;width:70px">𝐍𝐚𝐦𝐚𝐬𝐭𝐞<img src='https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020' style="height:70px;width:70px">   </h1>
-<br>
-<div align="center">
-<img src="https://giffiles.alphacoders.com/132/13267.gif" style="height:270px;width:500px">
-</div>
-<br>
-<div>
-<h2 align="center"><img src='https://media4.giphy.com/media/E5Vqm4UGhqt6Acc0GB/giphy.gif?cid=ecf05e47srsf5t3plbsa92nrovdo4kgra54fwwfy1qfv9my8&rid=giphy.gif&ct=s' style="height:60px;width:60px"> 𝐀𝐛𝐨𝐮𝐭 𝐦𝐞 </h2>
-<img src="https://media2.giphy.com/media/dieGgjBPDS9jy/giphy.gif?cid=ecf05e47y0hji82djpno2bb7e2284ntpv3yka0el49zo42ik&rid=giphy.gif&ct=g" align="right" style="height:180px;width:504">
-<li>
-<b>Name:</b> Rohan Sharma</li>
-<li>
-<b>Loves:</b> piano!! and chocolates and games maybe -///-
-</li>
-<li>
-<b>Gender:</b> he/his/Male
-</li>
-<li>
-<b>Hobbies:</b> Tech Stuff, Web Development, App Development, Video Editing, Playing ⚽, 🏸, 🏓.
-</li>
-<li>
-<b>Studying @:</b> VIT BHOPAL UNIVERSITY
-</li>
-<li>
-<b>Favorite Meme Dialogue:</b> Bruhhhh.....
-</li>  
-<li>
-  <b>𝓵𝓮𝓽'𝓼 𝓼𝓴𝓲𝓹 𝓽𝓸 𝓽𝓱𝓮 𝓰𝓸𝓸𝓭 𝓹𝓪𝓻𝓽.....
-</li>
-<br>
-
-</div>
-<div>
-<h2 align="center">   <img src='https://media0.giphy.com/media/Kfr20XdmssiUA0L115/giphy.gif?cid=ecf05e47wjkiui22px0mxddk721f6zuzbtyshsebu2dn5fob&rid=giphy.gif&ct=s' style="height:70px;width:70px">  𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐚𝐧𝐝 𝐭𝐨𝐨𝐥𝐬 </h2> 
-<p>
-<img src="https://giffiles.alphacoders.com/210/210437.gif" align="left" style="height:226px;width:420px">
-</div>
-<div>
-  
-<br>
-<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
-&nbsp;  
-<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
-<img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />
-&nbsp;
-  <br><br>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RohanSharma4792&show_icons=true&theme=gotham" alt="rohansharma" />
-  <a align="Right" width="50%" href="https://github.com/Adarsh-Saurabh/github-readme-activity-graph"><img  alt="Adarsh Saurabh's Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanSharma4792&theme=tokyonight&langs_count=7"/></a>
-
-
-<br>Im also very good at writing articles or small essays sort of thing. Literally took me Hours to write this while hearing music. Im a pianist and i also upload covers and tutorials on youtube. Links will be there down below.
-  And haa congrats!! You discovered me😃!!!!
+<h1 align="center">Hi , I'm Rohan Sharma <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Front+end+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
+<hr/>
+<h4 align="center">I am a Student at VIT Bhopal University. pursuing B.TECH. in CSE. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=RohanSharma47928&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
 
-<h2 align="center"><img src='https://media2.giphy.com/media/hVn7oX3edzzNsJPOFk/giphy.gif?cid=ecf05e47z7p81macy6ruf118zpdl5pzg8f1o6uerygobum9w&rid=giphy.gif&ct=s' style="height:70px;width:70px">𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐦𝐞</h2>
-<img src="https://media4.giphy.com/media/x7F4Fg2O4KZwY/giphy.gif?cid=ecf05e47sk4rso1kzm3fdbv80y929s6ed2jts6m8fihh5oqw&rid=giphy.gif&ct=g" align="right" width="393px" height="208px">
-<br>
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RohanSharma4792&theme=algolia" alt="candida18"  /></p>
 
-<p align="center">Hewe awe some of my <br>
-most used s-s-sociaw things >~< xoxox</p>
-  <a href="https://www.youtube.com/c/PianoWaala/videos"><img src="https://img.icons8.com/color/96/000000/youtube.png" alt="youtube"/></a>
-  <a href="https://www.facebook.com/profile.php?id=100004461168709"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
-  <a href="https://www.instagram.com/rohanisalluneed/"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
-  <a href="https://www.linkedin.com/in/rohan-sharma-1749ba21a/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-  <a href="https://twitter.com/upper_octave"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
-  <a href="https://discordapp.com/users/5525/"><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord"/></a>
+
+## 🛠️ My Skills
+
+### 👉 Programming languages
+
+<p align="left"> 
+<!--   &emsp; 
+  <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
+  </a>  -->
+  &emsp;
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+   </a>
+  &emsp;
+  <a href="https://www.java.com" target="_blank"> 
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
+  </a>
+  &emsp;
+   <a href="https://www.python.org" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
+     
+     
+<!--   </a>
+  &emsp;
+  <a href="https://www.php.net/">
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
+  </a> -->
+</p>
+
+### 👉 Frontend Development
+<p align="left"> 
+  &emsp; 
+  <a href="https://www.w3.org/html/" target="_blank"> 
+   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
+  </a>   
+  &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
+  </a> 
+   &emsp;
+  <a href="https://getbootstrap.com" target="_blank"> 
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
+  </a>
+  &emsp;
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-%23563D7C.svg?style=flat&logo=tailwind&logoColor=white">
+  </a>
+</p>
+
+<!-- ### 👉 Databases & Cloud Hosting
+<p align="left">
+  &emsp;
+    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
+  &emsp;
+    <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/></a>
+  &emsp;
+    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
+  &emsp;
+    <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>  
+  &emsp;
+    <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
+ </p>
+   -->
+### 👉Graphic Designing
+<p align="left">
+  &emsp;
+  	
   
-</div>
-<br>
-<div>
-<h2 align="center"><img src='https://media1.giphy.com/media/Kbjla2Aw5799DaW2SM/giphy.gif?cid=ecf05e47r371cgpcwgjhd2xkwzyrspkaasauyzg37l7ql569&rid=giphy.gif&ct=s' style="height:70px;width:70px">𝐓𝐡𝐚𝐧𝐤𝐬 𝐟𝐨𝐫 𝐫𝐞𝐚𝐝𝐢𝐧𝐠</h2>
-<div align="center">
-<img src="https://www.gifcen.com/wp-content/uploads/2021/02/demon-slayer-gif-1.gif" style="height:283px;width:504">
-</div>
-</div>
-</div>
-<hr>
-</body>
+   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
+    <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe Illustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white"/>
+  </a> 
+  &emsp;
+  <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"> 
+    <img alt="Adobe Indesign" src="https://img.shields.io/badge/Adobe Indesign-%e749a0.svg?style=flat&logo=adobeindesign&logoColor=white"/> 
+  </a> 
+    &emsp;
+  <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> 
+    <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe Lightroom-%2300f.svg?style=flat&logo=adobelightroom&logoColor=white"/>
+  </a>
+   &emsp;
+  <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> 
+   <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe Premiere Pro-%2300f.svg?style=flat&logo=adobepremierepro&logoColor=white"/>
+  </a>
+    &emsp;
+  <a href="#">
+  	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
+  </a>
+ </p>
+
+ ### 👉 Software & Tools
+ 
+<p>
+  &emsp;
+    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+  &emsp;
+<!--     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
+  &emsp; -->
+    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+  &emsp;
+</p>
+
+<br/>
+
+## 📊 Github Stats (Expand to View) 
+
+
+<details> 
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Candida's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RohanSharma4792&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RohanSharma4792&show_icons=true&locale=en&layout=compact&theme=algolia" alt="RohanSharma4792" height="192px"/>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+</details>
+
+
+<details>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/Candida18"><img alt="Rohan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RohanSharma4792&custom_title=Rohan%20Sharma's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
+</details>
+
+<br/>
+
+## 🙋‍♀️ Let's Connect
+<p align="center">
+<!--   <a href="https://candida-noronha.web.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a> -->
+	<a href="mailto:rohansharma4792@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/RohanSharma4792"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/rohan-sharma-1749ba21a/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/profile.php?id=100004461168709"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/rohanisalluneed/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://www.youtube.com/c/PianoWaala/videos"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
+	
+</p>
+
+<hr/>
