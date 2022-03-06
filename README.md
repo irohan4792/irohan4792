@@ -80,7 +80,7 @@
    -->
 ### 👉Graphic Designing
 <p align="left">
-  &emsp;
+<!--   &emsp;
   	
   
    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
@@ -89,7 +89,7 @@
   &emsp;
   <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"> 
     <img alt="Adobe Indesign" src="https://img.shields.io/badge/Adobe Indesign-%e749a0.svg?style=flat&logo=adobeindesign&logoColor=white"/> 
-  </a> 
+  </a>  -->
     &emsp;
   <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> 
     <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe Lightroom-%2300f.svg?style=flat&logo=adobelightroom&logoColor=white"/>
