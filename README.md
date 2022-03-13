@@ -14,7 +14,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RohanSharma47928&label=Profile%20views&color=0e75b6&style=plastic" alt="rohansharma4792" /> </p>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RohanSharma4792&theme=algolia" alt="rohansharma4792"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RohanSharma4792&theme=algolia" alt="rohansharma4792"  />
+</p>
 
 
 ## 🛠️ My Skills
