@@ -112,7 +112,7 @@
   </a>
 	&emsp;
   <a href="#">
-  	<img alt="Canva" src="https://img.shields.io/badge/SonyVegasPro-%2300C4CC.svg?style=flat&logo=Canva&logoColor=green"/>
+  	<img alt="Canva" src="https://img.shields.io/badge/-Sony%20Vegas%20Pro-orange`"/>
   </a>
  </p>
 
