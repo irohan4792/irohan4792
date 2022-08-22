@@ -149,7 +149,7 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Rohan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RohanSharma4792&count_private=true&theme=dark&show_icons=true" height="192px"/></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=RohanSharma4792"/></a>
 <br/>
   &nbsp;
 	 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanSharma4792&theme=dark)" align="center"/>
