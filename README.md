@@ -6,9 +6,7 @@
 <h1 align="center">Ciao , I'm Rohan Sharma <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-
- 
-<center><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Front+end+Web+Developer;TECH%20|%20SPORTS%20|%20Music%20Enthusiast;Video%20Editor;Always%20learning%20new%20things&center=true&width=500&height=50"></a></center>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Front+end+Web+Developer;TECH%20|%20SPORTS%20|%20Music%20Enthusiast;Video%20Editor;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 <h4 align="center">I am a Student🧑 at VIT Bhopal University. pursuing B.TECH. in CSE. I 💝 to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I 💝 meeting new people, exchanging ideas and spreading knowledge and positivity. Bonus: I'm a 🎹ist too. </h4>
