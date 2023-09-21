@@ -169,7 +169,7 @@
 	<a href="https://github.com/RohanSharma4792"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/rohan-sharma-1749ba21a/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/profile.php?id=100004461168709"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/rohanisalluneed/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://www.instagram.com/maixrohan/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="https://www.youtube.com/c/PianoWaala/videos"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
 	
 </p>
