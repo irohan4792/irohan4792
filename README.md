@@ -8,7 +8,7 @@
 <p align="center">
 
  
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Front+end+Web+Developer;TECH%20|%20SPORTS%20|%20Music%20Enthusiast;Video%20Editor;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+<center><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Front+end+Web+Developer;TECH%20|%20SPORTS%20|%20Music%20Enthusiast;Video%20Editor;Always%20learning%20new%20things&center=true&width=500&height=50"></a></center>
 </p>
 <hr/>
 <h4 align="center">I am a Student🧑 at VIT Bhopal University. pursuing B.TECH. in CSE. I 💝 to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I 💝 meeting new people, exchanging ideas and spreading knowledge and positivity. Bonus: I'm a 🎹ist too. </h4>
@@ -154,13 +154,13 @@
 </details>
 
 
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/RohanSharma4792"><img alt="Rohan's Activity Graph" src="https://github.com/Readme-Workflows/recent-activity/RohanSharma4792" /></a>
-  <br/>
 
-</details>
+<!--   <summary><b>⚡ Recent GitHub Activity</b></summary> -->
+<!--   <br/> -->
+<!--    <a href="https://github.com/RohanSharma4792"><img alt="Rohan's Activity Graph" src="https://github.com/Readme-Workflows/recent-activity/RohanSharma4792" /></a> -->
+<!--   <br/> -->
+
+
 
 <br/>
 
