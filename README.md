@@ -149,9 +149,9 @@
   &nbsp;
 	 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanSharma4792&theme=dark)" align="center"/>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohansharma4792&theme=xcode)](https://github.com/rohansharma4792/github-readme-activity-graph)"/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
 
 
