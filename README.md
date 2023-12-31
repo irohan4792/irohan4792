@@ -12,7 +12,7 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=irohan47928&label=Profile%20views&color=0e75b6&style=plastic" alt="irohan4792" /> </p>
 
-[![An image of @irohan4792's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/irohan4792)](https://holopin.io/@irohan4792)
+[![An image of @irohan4792's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rohansharma4792)](https://holopin.io/@irohan4792)
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=irohan4792&theme=algolia" alt="irohan4792"  />
 <img src="https://leetcard.jacoblin.cool/irohan4792?ext=contest&theme=dark"/>
