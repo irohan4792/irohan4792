@@ -10,12 +10,12 @@
 <hr/>
 <h4 align="center">I am a Student🧑 at VIT Bhopal University. pursuing B.TECH. in CSE. I 💝 to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I 💝 meeting new people, exchanging ideas and spreading knowledge and positivity. Bonus: I'm a 🎹ist too. </h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=RohanSharma47928&label=Profile%20views&color=0e75b6&style=plastic" alt="rohansharma4792" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=irohan47928&label=Profile%20views&color=0e75b6&style=plastic" alt="irohan4792" /> </p>
 
-[![An image of @rohansharma4792's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rohansharma4792)](https://holopin.io/@rohansharma4792)
+[![An image of @irohan4792's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/irohan4792)](https://holopin.io/@irohan4792)
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RohanSharma4792&theme=algolia" alt="rohansharma4792"  />
-<img src="https://leetcard.jacoblin.cool/rohansharma4792?ext=contest&theme=dark"/>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=irohan4792&theme=algolia" alt="irohan4792"  />
+<img src="https://leetcard.jacoblin.cool/irohan4792?ext=contest&theme=dark"/>
 </p>
 
 ## 🛠️ My Skills
@@ -144,13 +144,13 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-<!--   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=RohanSharma4792"/></a> -->
+<!--   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=irohan4792"/></a> -->
 <br/>
   &nbsp;
-	 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanSharma4792&theme=dark)" align="center"/>
+	 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irohan4792&theme=dark)" align="center"/>
   <br/>
   </p>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohansharma4792&theme=xcode)](https://github.com/rohansharma4792/github-readme-activity-graph)"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=irohan4792&theme=xcode)](https://github.com/irohan4792/github-readme-activity-graph)"/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
@@ -158,7 +158,7 @@
 
 <!--   <summary><b>⚡ Recent GitHub Activity</b></summary> -->
 <!--   <br/> -->
-<!--    <a href="https://github.com/RohanSharma4792"><img alt="Rohan's Activity Graph" src="https://github.com/Readme-Workflows/recent-activity/RohanSharma4792" /></a> -->
+<!--    <a href="https://github.com/irohan4792"><img alt="Rohan's Activity Graph" src="https://github.com/Readme-Workflows/recent-activity/irohan4792" /></a> -->
 <!--   <br/> -->
 
 
@@ -168,8 +168,8 @@
 ## 🙋‍♀️ Let's Connect
 <p align="center">
 <!--   <a href="https://candida-noronha.web.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a> -->
-	<a href="mailto:rohansharma4792@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/RohanSharma4792"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="mailto:irohan4792@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/irohan4792"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/rohan-sharma-1749ba21a/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/profile.php?id=100004461168709"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/maixrohan/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
