@@ -10,7 +10,7 @@
 <hr/>
 <h4 align="center">I am a Student🧑 at VIT Bhopal University. pursuing B.TECH. in CSE. I 💝 to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I 💝 meeting new people, exchanging ideas and spreading knowledge and positivity. Bonus: I'm a 🎹ist too. </h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=irohan47928&label=Profile%20views&color=0e75b6&style=plastic" alt="irohan4792" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=irohan47928&base=3000&label=Profile%20views&color=0e75b6&style=plastic" alt="irohan4792" /> </p>
 
 [![An image of @irohan4792's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rohansharma4792)](https://holopin.io/@irohan4792)
 ## 🔥 Streak Stats
