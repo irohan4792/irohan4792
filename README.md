@@ -14,7 +14,7 @@
 
 [![An image of @irohan4792's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rohansharma4792)](https://holopin.io/@irohan4792)
 ## 🔥 Streak Stats
-<p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=irohan4792&theme=whatsapp-dark2&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a></p>
+<p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=irohan4792&theme=whatsapp-dark2&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a></p>
 	
 <p align = "center"><img src="https://leetcard.jacoblin.cool/irohan4792?ext=contest&theme=dark"/></p>
 </p>
