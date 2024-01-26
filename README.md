@@ -152,6 +152,7 @@
   <br/>
   </p>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=irohan4792&theme=xcode)](https://github.com/irohan4792/github-readme-activity-graph)"/>
+
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
@@ -177,5 +178,8 @@
 	<a href="https://www.youtube.com/c/PianoWaala/videos"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
 	
 </p>
+
+![](https://github-profile-trophy.vercel.app/?username=irohan4792&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 <hr/>
