@@ -16,7 +16,7 @@
 ## 🔥 Streak Stats
 <p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=irohan4792&theme=whatsapp-dark2&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a></p>
 	
-<p align = "center"><img src="https://leetcard.jacoblin.cool/irohan4792?ext=contest&theme=dark"/></p>
+<p align = "center"><img src="https://leetcard.jacoblin.cool/whypr?ext=contest&theme=dark"/></p>
 </p>
 
 ## 🛠️ My Skills
